@@ -26,3 +26,12 @@ images/
 ├── chichen-itza.png
 ├── taj-mahal.jpg
 └── screenshot.png
+```
+
+## How to Run
+
+Open the `index.html` file in any modern web browser.
+
+## Preview
+
+![World Landmarks Explorer Preview](images/screenshot.png)
